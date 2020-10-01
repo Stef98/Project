@@ -1,0 +1,29 @@
+E:\Visual Studio codes\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+E:\Visual Studio codes\source\repos\Project2\Project2\bin\Debug\Project2.exe
+E:\Visual Studio codes\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.LogIN.resources
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.exe
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.pdb
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.FormMap.resources
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.PlaneSelect.resources
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.AddPlane.resources
+E:\Visual Studio codes\source\repos\Project2\Project2\obj\Debug\Project2.formRemove.resources
+C:\Users\Stefan\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Stefan\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Stefan\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.AddPlane.resources
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.formRemove.resources
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.FormMap.resources
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.LogIN.resources
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.PlaneSelect.resources
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Stefan\Desktop\Project2\Project2\obj\Debug\Project2.Results.resources
